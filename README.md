@@ -1,6 +1,8 @@
-## 👨🏽‍💻 Matheus Nunes 🖐️
+## Matheus Nunes 🖐️
 
-Me chamo Matheus Nunes, tenho 21 anos e sou natural de Porto Velho - RO. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonado por tecnologia.
+👨‍🎓 Academico em Análise e Desenvolvimento de Sistemas na Uniasselvi 🟡
+
+🎓 Formação em Técnico em Informática IFRO CAMPUS PORTO VELHO CALAMA
 
 ![Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushenrynunes&show_icons=true&theme=dracula)
 
