@@ -64,14 +64,6 @@ Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ens
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -95,12 +87,9 @@ Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ens
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheushenrynunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenrynunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushenrynunes/matheushenrynunes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushenrynunes/matheushenynunes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheushenrynunes/matheushenrynunes/output/github-contribution-grid-snake.svg">
+</picture>
