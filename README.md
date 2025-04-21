@@ -1,13 +1,12 @@
-## Matheus Nunes 🖐️
+# 👩🏻‍💻 Matheus Nunes
 
-👨‍🎓 Academico em Análise e Desenvolvimento de Sistemas na Uniasselvi 🟡
+**`Desenvolvedor Front-end Júnior`**
 
-🎓 Formação em Técnico em Informática IFRO CAMPUS PORTO VELHO CALAMA
+Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi🟡. Sou apaixonado por tecnologia e Inovação.
 
-![Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushenrynunes&show_icons=true&theme=dracula)
+---
 
-
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -65,16 +64,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
 
 <img 
     align="left" 
@@ -85,5 +82,25 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
 <br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
