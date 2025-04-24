@@ -5,7 +5,7 @@
 Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi🟡. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ### 🤖 Linguagens e Tecnologias
-
+# 
 <img 
     align="left" 
     alt="HTML"
@@ -76,7 +76,7 @@ Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ens
 <br/>
 
 ### 📊 Estatísticas
-
+# 
 <p>
   <img 
     align="left" 
