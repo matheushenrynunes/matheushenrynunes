@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end Júnior`**
 
-Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática.
+Me chamo Matheus Nunes, tenho 21 anos e sou natural de Rondônia. Formado Instituto Federal de Rondônia Campus Calama, em Técnico em Informática.
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
