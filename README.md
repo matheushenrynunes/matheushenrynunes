@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Nunes
+# Matheus Nunes
 
 **`Desenvolvedor Front-end Júnior`**
 
