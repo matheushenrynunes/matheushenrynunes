@@ -1,22 +1,17 @@
-<br clear="both">
 
-<h1 align="left">Olá, eu sou o Matheus Nunes! 🤓</h1>
+ Sou um desenvolvedor FrontEnd apaixonado e autodidata.
+ 
+**Sobre Mim**
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas<br>na Faculdade Uniasselvi. Estou constantemente atualizando <br>meus conhecimentos e buscando novos desafios na área de tecnologia. <br>Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+- 💼 Atualmente, estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi).
 
-
-<h2 align="left">Contact me here!</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-nunes-2124a4287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="matheusnunescontato03@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-<h2 align="left">My Technologies</h2>
+- ❤️ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+- 💬 Fale comigo Aqui! 👇🏾
+              <div> 
+                <a href = "matheusnunescontato03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+                <a href="https://www.linkedin.com/in/matheus-nunes-2124a4287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+              </div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo"  />
@@ -30,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="27" alt="github logo"  />
 </div>
 
-<h2 align="left">GitHub Statis</h2>
+  ##
 
 <br clear="both">
 
